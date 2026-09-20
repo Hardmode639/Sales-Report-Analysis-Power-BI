@@ -1,4 +1,4 @@
-# Sales Report Analysis (Power BI)
+# Sales Report Analysis |Power BI
 
 An interactive Power BI dashboard for analyzing sales performance, order trends, and freight costs, built on a star-schema-style data model with 5 tables:
 
