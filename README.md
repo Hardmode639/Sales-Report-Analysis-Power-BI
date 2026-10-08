@@ -6,12 +6,12 @@ An interactive Power BI dashboard for analyzing sales performance, order trends,
 
 ## Key Features
 
-* **KPI Cards & Trend Charts:** Total Sales, Total Orders, and Total Freight tracked via line, column, and donut charts
-* **YoY Analysis:** Custom DAX measures for Current Year vs Last Year Sales and Sales Variance
-* **Geographic Insights:** Country-level sales distribution using a Map visual
-* **Deep-Dive Analysis:** Dedicated Table & Matrix page with pivot tables for category/customer breakdowns
-* **Self-Service Analytics:** Natural language Q&A visual + interactive slicers for date, category, and location filters
-* **Custom UI/UX:** Themed, FitToPage layout across all 3 report pages
+-Built a 3-page interactive Power BI dashboard analyzing sales, freight, and order performance across a multi-table relational data model (Orders, Order Details, Customers, Categories, order master)
+-Designed DAX measures — including Total sales, Total orders, Total freight, CY Sales, LY Sales, and Sales Variance
+to enable year-over-year sales comparison and variance tracking
+-Visualized KPIs using card, donut, line, column, and tree map charts to track total sales, orders, and freight costs over time
+-Built a geographic sales analysis using a Map visual to break down Total Sales by Country/Customer location
+-Created a dedicated "Table & Matrix" page with pivot tables and matrix visuals for detailed drill-down sales analysis by category and customer
 
 ## Tools & Skills
 
